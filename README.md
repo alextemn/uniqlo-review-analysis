@@ -20,8 +20,7 @@ This project uses web scraping and data analysis to explore the relationship bet
 - Python  
 - Selenium  
 - Pandas  
-- Matplotlib  
-- Scipy (for linear regression)
+- Matplotlib
 
 ## 📁 Files
 
